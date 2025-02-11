@@ -1,0 +1,70 @@
+# Byte-compiled files
+*.pyc
+*.pyo
+__pycache__/
+
+# Virtual environment
+venv/
+env/
+.myPython/
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Logs and local debug files
+*.log
+*.out
+*.err
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+.AppleDouble
+.LSOverride
+
+# macOS-specific metadata
+*.Spotlight-V100
+*.Trashes
+._*
+.Spotlight-V100
+.Trashes
+.VolumeIcon.icns
+.DS_Store
+._.DS_Store
+.fseventsd
+.hidden
+
+# IDE-specific files
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Python package files
+*.egg
+*.egg-info/
+dist/
+build/
+*.whl
+
+# Environment variables and configuration
+.env
+*.ini
+*.cfg
+
+# Temporary files
+*.tmp
+*.temp
+*.bak
+*.old
+
+# Coverage reports
+htmlcov/
+.coverage
+coverage.xml
+
+# Pytest cache
+.pytest_cache/
+
+# Documentation builds
+build/docs/
