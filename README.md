@@ -1,6 +1,6 @@
 # PhD Project Repository: The Data Calculus: How Consumers Value Their Personal Data?
 
-This repository contains the main data and scripts used in the empirical analyses conducted for my PhD project in Economics.
+This repository contains the main data and scripts used in the empirical analyses conducted for my PhD project in Economics at the University of Warsaw.
 
 As a strong proponent of open science, I have made all anonymized stated preference datasets and the corresponding code publicly available. This initiative is intended to promote transparency, ensure reproducibility, and serve as a practical resource for researchers working on privacy preference elicitation, discrete choice experiments (DCEs), and related topics. By sharing both data and methodological tools, I aim to support future research, encourage collaboration, and contribute to the wider dissemination of empirical techniques in the context of the digital economy.
 
