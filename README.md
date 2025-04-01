@@ -32,5 +32,5 @@ If you use any data or code from this repository, please cite the relevant publi
 
 This repository uses the following licenses:
 
-- **Code** is released under the [MIT License](LICENSE_CODE).
+- **Code** is released under the [MIT License](https://opensource.org/license/MIT).
 - **Data** is shared under the [Creative Commons Attribution 4.0 International (CC BY 4.0)](https://creativecommons.org/licenses/by/4.0/) license.
